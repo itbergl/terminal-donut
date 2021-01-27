@@ -3,6 +3,7 @@
 #include <stdlib.h>
 #include <stdbool.h>
 #include <strings.h>
+#include <math.h>
 
 
 //data structures
