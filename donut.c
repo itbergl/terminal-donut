@@ -19,9 +19,7 @@ double K1 = screenWidth*K2*3/(8*(r+R));
 double twoPi = 6.28318530718;
 
 double A = 0;
-double B = 0;
-
-
+double B = 0; 
 
 
 int main(int argc, char *argv[])
